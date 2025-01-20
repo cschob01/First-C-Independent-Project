@@ -1,3 +1,3 @@
-# First C++ Independent Project
+# Heads-Up-Poker
 
-Pass-and-play heads up poker. Coded from scratch
+This is my first independent c++ project. It is pass-and-play heads up poker, coded from scratch.
